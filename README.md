@@ -46,9 +46,9 @@ Interpretation:
 <br>
 Q5. Which fuel type supports higher maximum power in cars?
 
-Graph name: 
+Graph name: Maximum Power Consumption between Fuel Types
 
-Interpretation: Maximum Power Consumption between Fuel Types
+Interpretation: 
 - Vehicles using Diesel have the highest maximum power (671 units), indicating Diesel-powered vehicles are typically more powerful.
 - Petrol vehicles rank second in terms of maximum power, with a value of 280 units.
 - CNG and LPG vehicles have relatively low maximum power, with CNG at 258 units and LPG at 68.1 units.
