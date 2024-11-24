@@ -17,7 +17,7 @@ Interpretation:
 - Second-owner vehicles show a significant drop in average price (₹415,127), followed by third-owner vehicles (₹315,969), and fourth-and-above-owner vehicles (₹227,529). 
 - This suggests a declining trend in value as the number of ownerships increases, likely due to perceived usage and wear.
 
-
+<br>
 Q2. What is the trend in total kilometers driven for cars of different manufacturing years? 
 Graph name: Cars Driven vs. Year
 Interpretation:
