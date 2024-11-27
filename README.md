@@ -1,5 +1,8 @@
 <h1>Automotive-Analytics-Dashboard</h1>
 
+<H2>OBJECTIVE OF THE DASHBOARD</H2>
+To analyze car resale market trends and key factors influencing vehicle value, mileage, and performance to optimize pricing strategies and inventory management.
+
 <h2>ABOUT THE DATASET</h2>
 The dataset provides detailed information about used cars, designed for analysis related to car sales. It contains 7,906 rows and 12 columns, covering various attributes of vehicles. Key features include the car's name, year of manufacture, selling_price (indicative of the resale value), and km_driven (distance covered). Additional attributes include the type of fuel (e.g., petrol, diesel), seller_type (such as individual or dealer), transmission type (manual or automatic), and the owner category (e.g., first, second, or third owner). Technical specifications such as mileage_kmpl, engine_cc, max_power, and the number of seats provide insights into vehicle performance and capacity. This dataset is valuable for understanding trends in the used car market and performing predictive analyses.
 
@@ -159,4 +162,32 @@ Trustmark Dealers: 32%.
 - No significant variation exists in mileage based on the seller type.
 - Buyers can expect comparable mileage regardless of whether they purchase from dealers, individuals, or Trustmark-certified dealers.
 Seller type is not a key determinant of mileage performance.
+
+<H2>MANAGERIAL INSIGHTS</H2>
+1. Ownership Impact on Value:
+- First-owner vehicles retain the highest resale value, while value significantly declines with successive ownership. Focus on acquiring and promoting first-owner cars to attract higher-paying buyers.
+
+2. Transmission Preference:
+- Despite their smaller market share, automatic vehicles command significantly higher average prices, indicating demand for premium features. Highlight automatic options in premium customer segments.
+
+3. Fuel Efficiency and Mileage Trends:
+- Diesel cars dominate in fuel efficiency and retain higher selling prices, making them attractive for both resale and fleet operations. However, highlight CNG for eco-conscious buyers.
+
+4. Power and Performance:
+- Diesel vehicles lead in power output, with rising trends in petrol car performance. Invest in models that balance performance with efficiency to cater to diverse buyer preferences.
+
+5. Seat Capacity and Premium Positioning:
+- Seven-seater vehicles are priced the highest, showing demand for family-oriented or multi-passenger vehicles. Promote SUVs and MPVs as luxury offerings.
+
+6. Age and Usage Trends:
+- Recent model-year vehicles show higher activity and retention of value. Focus inventory sourcing on newer models to align with buyer preferences for reliability and longevity.
+
+7. Market Segmentation by Seller Type:
+- Similar mileage performance across seller types suggests buyers may prioritize other factors, such as trust and certification. Promote Trustmark Dealer vehicles for credibility and assurance.
+
+8. High-Mileage Cars and Resale Demand:
+- Vehicles with higher mileage are predominantly owned by later owners. For high-mileage cars, target price-sensitive or specific-use customers.
+
+9. Timing for Optimal Sales:
+- Average selling prices fluctuate throughout the day, with specific time slots showing peaks. Leverage this data to schedule promotions and auctions during peak demand hours.
 <br></br>
