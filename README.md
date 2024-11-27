@@ -1,5 +1,8 @@
 <h1>Automotive-Analytics-Dashboard</h1>
 
+<h2>ABOUT THE DATASET</h2>
+The dataset provides detailed information about used cars, designed for analysis related to car sales. It contains 7,906 rows and 12 columns, covering various attributes of vehicles. Key features include the car's name, year of manufacture, selling_price (indicative of the resale value), and km_driven (distance covered). Additional attributes include the type of fuel (e.g., petrol, diesel), seller_type (such as individual or dealer), transmission type (manual or automatic), and the owner category (e.g., first, second, or third owner). Technical specifications such as mileage_kmpl, engine_cc, max_power, and the number of seats provide insights into vehicle performance and capacity. This dataset is valuable for understanding trends in the used car market and performing predictive analyses.
+
 <H2>DASHBOARD</H2>
 
 ![Dashboard Screenshot 1](https://github.com/user-attachments/assets/750f4bd6-bbef-4d81-b5c7-4a9c4b7bd5bf)
