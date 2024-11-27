@@ -164,6 +164,7 @@ Trustmark Dealers: 32%.
 Seller type is not a key determinant of mileage performance.
 
 <H2>MANAGERIAL INSIGHTS</H2>
+
 1. Ownership Impact on Value:
 - First-owner vehicles retain the highest resale value, while value significantly declines with successive ownership. Focus on acquiring and promoting first-owner cars to attract higher-paying buyers.
 
